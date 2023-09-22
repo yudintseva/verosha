@@ -1,0 +1,59 @@
+p{font-family: 'IBM Plex Serif', serif;};
+h2{font-family: 'IBM Plex Serif', serif;};
+
+.moeono{
+    color: rgb(80, 122, 86);
+    /* color:rgb(80, 122, 86) */
+}
+h1{font-family: 'IBM Plex Serif', serif;
+ color: rgb(88, 133, 118);   
+}
+.f{color: blue;}
+
+.moeono{font-size: 25px;}
+nav > ul{
+    color: darkslategray;
+    background-color: rgb(240, 214, 239);
+}
+nav > ol{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px;
+    font-size: smaller;
+}
+nav
+a:hover{
+    color: blue;
+}
+li:first-child{font-weight: bold;}
+h2 + p{
+    font-weight: lighter;
+    font-size: xx-large;
+    color: brown;
+}
+.ciferki{
+    color: blue;
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 100px;
+    font-size: medium;
+
+}
+.korobochka{
+    width: 250px;
+    height: 250px;
+    background-color: azure;
+}
+.content-container{
+    background-color: aqua;
+    margin-top: 5% ;
+    padding-top: 2%; ;
+    padding-bottom: 2%%;
+    padding-left: 2%;
+}
+section{
+    background-color: coral;
+}
+.section{
+    background-color: deeppink;
+}
